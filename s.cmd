@@ -1,4 +1,4 @@
 @echo off
-@REM python setup.py sdist
-@REM twine upload dist/*
+python setup.py sdist
+twine upload dist/*
 @REM pip install activity_calendar_widget
