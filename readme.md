@@ -75,7 +75,7 @@ app.exec()
 
 ## Figma Link
 
-https://www.figma.com/community/file/1153390420369492172
+https://www.figma.com/community/file/1153390420369492172/activity-calendar-widget
 
 credits to [Lindsay](https://www.figma.com/@lho)
 
