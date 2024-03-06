@@ -83,5 +83,6 @@ credits to [Lindsay](https://www.figma.com/@lho)
 
 - ![Image 1](assets/img1.png)
 - ![Image 2](assets/img2.png)
-<!-- - ![Video](assets/activity_calendar_widget.mp4) -->
-- Video Demo  <video src='assets/activity_calendar_widget.mp4'/>
+  <!-- <!-- - Video Demo -->
+  <video src='https://github.com/prmpsmart/activity_calendar_widget/blob/main/assets/activity_calendar_widget.mp4'/> -->
+  <video src='https://github.com/prmpsmart/activity_calendar_widget/blob/main/assets/activity_calendar_widget.webm'/> -->
