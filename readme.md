@@ -81,5 +81,7 @@ credits to [Lindsay](https://www.figma.com/@lho)
 
 ## Images
 
-- ![Image 1](img1.png)
-- ![Image 2](img2.png)
+- ![Image 1](assets/img1.png)
+- ![Image 2](assets/img2.png)
+<!-- - ![Video](assets/activity_calendar_widget.mp4) -->
+- Video Demo  <video src='assets/activity_calendar_widget.mp4'/>
